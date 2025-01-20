@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Abstract classes initial">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/ProductForSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,9 +50,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hakal/IdeaProjects/LearningJava/src/main/java/org/example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hakal\IdeaProjects\LearningJava\src\main\java\org\example" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,8 +71,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737370527313</updated>
-      <workItem from="1737370528590" duration="92000" />
+      <workItem from="1737370528590" duration="3792000" />
     </task>
+    <task id="LOCAL−00001" summary="Abstract classes initial">
+      <created>1737370712874</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1737370712874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Abstract classes initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes initial" />
   </component>
 </project>
