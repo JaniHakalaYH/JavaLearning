@@ -11,6 +11,8 @@ public class Table extends ProductForSale{
 
     @Override
     public void showDetails() {
-
+        System.out.println("this " + type + " was manufactured in Stockholm");
+        System.out.println("The price of this is: " + price);
+        System.out.println(description);
     }
 }

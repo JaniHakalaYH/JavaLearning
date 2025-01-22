@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Abstract classes initial">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/ProductForSale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Horse.java" afterDir="false" />
+    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Abstract classes continued">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Table.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hakal/IdeaProjects/LearningJava/src/main/java/org/example",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hakal/IdeaProjects/LearningJava/src/main/java/org/example&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hakal\IdeaProjects\LearningJava\src\main\java\org\example" />
@@ -71,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737370527313</updated>
-      <workItem from="1737370528590" duration="3792000" />
+      <workItem from="1737370528590" duration="4694000" />
+      <workItem from="1737547311327" duration="2449000" />
     </task>
     <task id="LOCAL−00001" summary="Abstract classes initial">
       <created>1737370712874</created>
@@ -79,7 +74,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1737370712874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Abstract classes continued">
+      <created>1737378329351</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1737378329351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Abstract classes initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes initial" />
+    <MESSAGE value="Abstract classes continued" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes continued" />
   </component>
 </project>
