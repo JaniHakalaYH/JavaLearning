@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Abstract classes continued">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Abstract classes challenge complete">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClasses/Challenge/Table.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737370527313</updated>
       <workItem from="1737370528590" duration="4694000" />
-      <workItem from="1737547311327" duration="2449000" />
+      <workItem from="1737547311327" duration="4183000" />
     </task>
     <task id="LOCAL−00001" summary="Abstract classes initial">
       <created>1737370712874</created>
@@ -80,7 +80,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1737378329351</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Abstract classes challenge complete">
+      <created>1737552009537</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1737552009537</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Abstract classes initial" />
     <MESSAGE value="Abstract classes continued" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes continued" />
+    <MESSAGE value="Abstract classes challenge complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes challenge complete" />
   </component>
 </project>
