@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Interfaces initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Jet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Truck.java" afterDir="false" />
+    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="some more interfaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
@@ -87,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737370527313</updated>
       <workItem from="1737370528590" duration="4694000" />
-      <workItem from="1737547311327" duration="8804000" />
+      <workItem from="1737547311327" duration="9788000" />
     </task>
     <task id="LOCAL−00001" summary="Abstract classes initial">
       <created>1737370712874</created>
@@ -113,7 +111,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1737553741346</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="some more interfaces">
+      <created>1737643484641</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1737643484641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +139,7 @@
     <MESSAGE value="Abstract classes continued" />
     <MESSAGE value="Abstract classes challenge complete" />
     <MESSAGE value="Interfaces initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfaces initial commit" />
+    <MESSAGE value="some more interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more interfaces" />
   </component>
 </project>
