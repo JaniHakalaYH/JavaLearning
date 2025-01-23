@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Abstract classes challenge complete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
+    <list default="true" id="a43960ac-9383-40ca-a0eb-f17509e2c001" name="Changes" comment="Interfaces initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Jet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Truck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LearningJava" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -29,6 +47,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4c7468fa-8f2a-4eab-b5a1-f2e5e3cb0966" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737370527313</updated>
       <workItem from="1737370528590" duration="4694000" />
-      <workItem from="1737547311327" duration="4183000" />
+      <workItem from="1737547311327" duration="8804000" />
     </task>
     <task id="LOCAL−00001" summary="Abstract classes initial">
       <created>1737370712874</created>
@@ -86,7 +107,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1737552009537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Interfaces initial commit">
+      <created>1737553741346</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1737553741346</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +134,7 @@
     <MESSAGE value="Abstract classes initial" />
     <MESSAGE value="Abstract classes continued" />
     <MESSAGE value="Abstract classes challenge complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes challenge complete" />
+    <MESSAGE value="Interfaces initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces initial commit" />
   </component>
 </project>
